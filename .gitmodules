@@ -1,3 +1,6 @@
 [submodule "snakegame"]
 	path = snakegame
 	url = https://github.com/govindh369/snakegame.git
+[submodule "quizproject"]
+	path = quizproject
+	url = https://github.com/govindh369/quizproject.git
